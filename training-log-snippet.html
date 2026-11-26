@@ -1,0 +1,24 @@
+<!-- Insert this inside each planned running-workout card. Replace WORKOUT_ID and planned minutes dynamically. -->
+<section class="workout-result" data-workout-id="WORKOUT_ID" data-planned-minutes="24">
+  <h4>Hoe ging de training?</h4>
+  <div class="status-buttons">
+    <button data-status="complete">✅ Voltooid</button>
+    <button data-status="partial">🟠 Gedeeltelijk</button>
+    <button data-status="missed">❌ Niet uitgevoerd</button>
+  </div>
+  <div class="partial-fields" hidden>
+    <label>Werkelijke blokken <input class="actual-blocks" placeholder="6:30, 8:00, 2:00"></label>
+    <div class="execution-summary"></div>
+    <label><input type="checkbox" class="target-pace"> Doeltempo gehaald</label>
+    <fieldset><legend>Waarom niet volledig?</legend>
+      <label><input type="checkbox" value="fatigue"> Benen/vermoeidheid</label>
+      <label><input type="checkbox" value="pace"> Tempo te zwaar</label>
+      <label><input type="checkbox" value="weather"> Weer/omstandigheden</label>
+      <label><input type="checkbox" value="injury"> Pijn/blessure</label>
+      <label><input type="checkbox" value="mental"> Mentaal</label>
+      <label><input type="checkbox" value="time"> Tijdgebrek</label>
+      <label><input type="checkbox" value="other"> Anders</label>
+    </fieldset>
+    <label>Notitie <textarea class="result-note" placeholder="Bijv. koud, baan glad; tempo voelde haalbaar..."></textarea></label>
+  </div>
+</section>
