@@ -1,7 +1,6 @@
-ROAD TO SUB 40 v4
+Road to Sub 40 v11
 
-Upload alles uit deze ZIP naar de root van GitHub Pages.
+Het oorspronkelijke 8-wekenprogramma is ongewijzigd behouden:
+Maandag kracht, dinsdag 8 km rustig, woensdag kwaliteit/interval, donderdag kracht, vrijdag rust of optioneel rustig, zaterdag lange duurloop, zondag herstel.
 
-Training staat per week netjes per dag. Op trainingsdagen kies je Fris, Normaal of Vermoeid. Fris geeft een sneller/langer voorstel, Normaal houdt het basisschema gelijk en Vermoeid maakt de sessie lichter. Trainings- en maaltijdafbeeldingen staan lokaal onder assets/, zodat ze ook op GitHub Pages meekomen.
-
-Voeding: 56 dagen avondmaaltijden, met 16 lokale foto-assets, ingredienten en bereidingsstappen.
+Nieuw: op dinsdag, woensdag en zaterdag kan een alternatieve hardlooptraining met ongeveer dezelfde belasting worden aangevraagd. Een alternatief is alleen een voorstel en overschrijft het originele schema niet.
