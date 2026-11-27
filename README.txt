@@ -1,12 +1,7 @@
-ROAD TO SUB 40 - UPDATED
+ROAD TO SUB 40 v4
 
-Upload de volledige inhoud van deze map naar de root van je GitHub Pages repository.
+Upload alles uit deze ZIP naar de root van GitHub Pages.
 
-Nieuw:
-- readiness vóór training + RPE/resultaat erna
-- Sub-40 readiness score
-- testmomenten in week 1, 4, 7 en 8
-- gemiste training verplaatsen of overslaan
-- 56 avondmaaltijden met afbeelding, ingrediënten en recept
+Training staat per week netjes per dag. Op trainingsdagen kies je Fris, Normaal of Vermoeid. Fris geeft een sneller/langer voorstel, Normaal houdt het basisschema gelijk en Vermoeid maakt de sessie lichter. Trainings- en maaltijdafbeeldingen staan lokaal onder assets/, zodat ze ook op GitHub Pages meekomen.
 
-Data wordt lokaal bewaard onder localStorage-key rts40-v3.
+Voeding: 56 dagen avondmaaltijden, met 16 lokale foto-assets, ingredienten en bereidingsstappen.
